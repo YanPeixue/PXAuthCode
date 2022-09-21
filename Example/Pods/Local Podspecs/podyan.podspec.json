@@ -1,22 +1,22 @@
 {
   "name": "podyan",
   "version": "0.1.0",
-  "summary": "A short description of podyan.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/yanpixue/podyan",
+  "summary": "auth-code is my first pod project",
+  "description": "验证码输入框",
+  "homepage": "https://github.com/YanPeixue/PXAuthCode",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "yanpixue": "yanpixue@abakusglobal.com"
+    "yanpeixue": "343756212@qq.com"
   },
   "source": {
-    "git": "https://github.com/yanpixue/podyan.git",
+    "git": "https://github.com/YanPeixue/PXAuthCode.git",
     "tag": "0.1.0"
   },
   "platforms": {
-    "ios": "10.0"
+    "ios": "11.0"
   },
   "source_files": "podyan/Classes/**/*",
   "dependencies": {

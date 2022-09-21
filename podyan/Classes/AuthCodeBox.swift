@@ -6,6 +6,7 @@
 //
 
 import UIKit
+import Foundation
 
 class AuthCodeBox: UIView {
     
@@ -59,7 +60,7 @@ class AuthCodeBox: UIView {
         animation.duration = 0.8
         animation.repeatCount = HUGE
         animation.isRemovedOnCompletion = false
-        animation.timingFunction = CAMediaTimingFunction(name: "easeInEaseOut")
+//        animation.timingFunction = CAMediaTimingFunction(name: CAMediaTimingFunctionName(string: "easeInEaseOut") as String)
         return animation
     }
     

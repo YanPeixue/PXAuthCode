@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = '验证码输入框'
+  s.description      = 'auth code for uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu'
 
   s.homepage         = 'https://github.com/YanPeixue/PXAuthCode'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '11.0'
-
+  s.swift_version = '5.0'
   s.source_files = 'podyan/Classes/**/*'
   
   # s.resource_bundles = {

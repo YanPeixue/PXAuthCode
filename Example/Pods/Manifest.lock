@@ -1,0 +1,23 @@
+PODS:
+  - podyan (0.1.0):
+    - SnapKit (~> 5.6.0)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - podyan (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  podyan:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  podyan: f454e31cff0b3a3c1441fe125b512f3fc31993aa
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: b5cbfe9fda9275fc1915c92fd00b454276503f09
+
+COCOAPODS: 1.11.3

@@ -1,0 +1,27 @@
+{
+  "name": "podyan",
+  "version": "0.1.0",
+  "summary": "A short description of podyan.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yanpixue/podyan",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yanpixue": "yanpixue@abakusglobal.com"
+  },
+  "source": {
+    "git": "https://github.com/yanpixue/podyan.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "podyan/Classes/**/*",
+  "dependencies": {
+    "SnapKit": [
+      "~> 5.6.0"
+    ]
+  }
+}
